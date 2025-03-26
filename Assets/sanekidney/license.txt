@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kidney
+* source:	https://sketchfab.com/3d-models/kidney-3aef2741ea754fb486451292b87e159a
+* author:	lissiecowley (https://sketchfab.com/lissiecowley)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kidney" (https://sketchfab.com/3d-models/kidney-3aef2741ea754fb486451292b87e159a) by lissiecowley (https://sketchfab.com/lissiecowley) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

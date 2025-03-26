@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CancerHC.sln"
+    "dotnet.defaultSolution": "Clara.sln"
 }
